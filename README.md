@@ -1,6 +1,6 @@
 # LocateCar
 
-O objetivo deste projeto foi criar um projeto Spring Boot com Thymeleaf, onde teremos um CRUD (Create, Read, Update e Delete) de uma determinada entidade do projeto LocateCar.
+O objetivo deste projeto foi criar um projeto Spring Boot com Thymeleaf, onde teremos um CRUD (Create, Read, Update e Delete) de uma determinada entidade do projeto LocateCar (Concessionário de alugul de carros).
 
 Requisitos Funcionais:
 
