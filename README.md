@@ -8,5 +8,6 @@ Ter ao menos uma regra de validação para criação do objeto;
 
 Listar os dados inseridos em uma tabela;
 
-Requisitos Não Funcionais
+Requisitos Não Funcionais:
+
 Utilizar JPA + H2 ou Postgres (Docker)
