@@ -5,7 +5,7 @@ O objetivo deste projeto foi criar um projeto Spring Boot com Thymeleaf, onde te
 Requisitos Funcionais:
 
 Ter ao menos uma regra de validação para criação do objeto;
-\nListar os dados inseridos em uma tabela;
+Listar os dados inseridos em uma tabela;
 
 Requisitos Não Funcionais
 Utilizar JPA + H2 ou Postgres (Docker)
